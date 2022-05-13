@@ -1,0 +1,11 @@
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\bin\Debug\Laba10.exe.config
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\bin\Debug\Laba10.exe
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\bin\Debug\Laba10.pdb
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\obj\Debug\Lab 10.csproj.AssemblyReference.cache
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\obj\Debug\Lab 10.csproj.SuggestedBindingRedirects.cache
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\obj\Debug\Lab10.Form1.resources
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\obj\Debug\Laba10.Properties.Resources.resources
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\obj\Debug\Lab 10.csproj.GenerateResource.cache
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\obj\Debug\Lab 10.csproj.CoreCompileInputs.cache
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\obj\Debug\Laba10.exe
+D:\Programmer\Visual Studio\C#\Lab 10\Lab10\obj\Debug\Laba10.pdb

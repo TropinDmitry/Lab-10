@@ -1,0 +1,31 @@
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\bin\Debug\Laba10.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\bin\Debug\Laba10.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\bin\Debug\Laba10.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\obj\Debug\Laba10.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\obj\Debug\Laba10.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\obj\Debug\Laba10.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\obj\Debug\Laba10.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\obj\Debug\Laba10.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\Laba10\Laba10\obj\Debug\Laba10.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\bin\Debug\Laba10.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\bin\Debug\Laba10.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\bin\Debug\Laba10.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\obj\Debug\Laba10.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\obj\Debug\Laba10.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\obj\Debug\Laba10.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\obj\Debug\Laba10.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\obj\Debug\Laba10.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba10\Тая\Laba10\Laba10\obj\Debug\Laba10.pdb
+E:\Laba10\Laba10\bin\Debug\Laba10.exe.config
+E:\Laba10\Laba10\bin\Debug\Laba10.exe
+E:\Laba10\Laba10\bin\Debug\Laba10.pdb
+E:\Laba10\Laba10\obj\Debug\Laba10.csproj.AssemblyReference.cache
+E:\Laba10\Laba10\obj\Debug\Laba10.csproj.SuggestedBindingRedirects.cache
+E:\Laba10\Laba10\obj\Debug\Laba10.Form1.resources
+E:\Laba10\Laba10\obj\Debug\Laba10.Properties.Resources.resources
+E:\Laba10\Laba10\obj\Debug\Laba10.csproj.GenerateResource.cache
+E:\Laba10\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+E:\Laba10\Laba10\obj\Debug\Laba10.exe
+E:\Laba10\Laba10\obj\Debug\Laba10.pdb
